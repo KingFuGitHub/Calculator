@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aldrich</item>
+        <item>@font/belleza</item>
+        <item>@font/codystar</item>
+        <item>@font/codystar_light</item>
+        <item>@font/ewert</item>
+        <item>@font/faster_one</item>
+        <item>@font/nosifer</item>
+        <item>@font/titillium_web</item>
+        <item>@font/titillium_web_semibold</item>
+        <item>@font/ultra</item>
+    </array>
+</resources>

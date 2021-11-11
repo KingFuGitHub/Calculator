@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="current_string">String:</string>
+    <string name="current_length_0">Length: 0</string>
+    <string name="todo">TODO</string>
+    <string name="c">C</string>
+    <string name="left_bracket">(</string>
+    <string name="right_bracket">)</string>
+    <string name="addition">+</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="multiplication">×</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="subtraction">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="plus">+</string>
+    <string name="_0">0</string>
+    <string name="decimal">.</string>
+    <string name="e">E</string>
+    <string name="equalSign">=</string>
+    <string name="division">÷</string>
+</resources>

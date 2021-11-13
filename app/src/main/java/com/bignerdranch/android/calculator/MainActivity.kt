@@ -668,7 +668,11 @@ class MainActivity : AppCompatActivity() {
                 "×",
                 "÷",
                 "^(",
-                "0^("
+                "0^(",
+                "0+",
+                "0-",
+                "0×",
+                "0÷"
             ) || currentLengthValue > 19
         ) {
             autoCalculate = true
